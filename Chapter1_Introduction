@@ -1,0 +1,15 @@
+What is javascript?
+
+HTML: controls structure of your webpage
+CSS: controls the presentation/design
+Javascript: adds behaviour and interactivity
+
+- JavaScript is a scripting language. This essentially means it is limited in functionality - but this is the way it was made, intentionally! 
+- It's primary purpose is to add functionality and interactivity to websites, such as banner sliders, zoom-galleries, drag and drop etc. Is great at manipulating web pages
+
+
+- JavaScript is what's known as a client-side language, meaning it runs on your computer and not on a web server. - It cannot communicate directly with a database or file system on a compute. There are exceptions to this (e.g. with Node.js) but this is generally the case.
+- Other programming languages such as PHP, run on the server and are called server side languages.
+
+- JavaScript should enhance your audience’s experience only
+- Do not rely on JavaScript to add core functionality to your website
