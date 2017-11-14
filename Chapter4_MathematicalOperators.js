@@ -4,10 +4,10 @@
 5+5
 10-5
 
-var myVar=5; //assignment
-var myVar=5+5; //addition
-myVar=myVar/2; //division
-var myVar=5*5; //multiplication
+var myVar = 5; //assignment
+var myVar = 5+5; //addition
+myVar = myVar/2; //division
+var myVar = 5*5; //multiplication
 
 
 //concatenate
@@ -22,8 +22,8 @@ var myVar=5*5; //multiplication
 
 += is the short-hand for adding to the current variable 
 
-var myVar=5;
-myVar=myVar+10;
+var myVar = 5;
+myVar = myVar+10;
 
 //is equivalent to myVar=myVar+10;
 myVar+=5;

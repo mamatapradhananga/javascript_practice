@@ -12,6 +12,6 @@ alert("Hello, World!!");
 var myName = "Mamata";
 
 //JavaScript runs from top to bottom
-//Js is not sencitive to whitespace or line break
+//Js is not sensitive to whitespace or line break
 // Write one-line comments using //
 // Write multiple line comments using /* */
